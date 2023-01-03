@@ -4,6 +4,7 @@ body {
     color: #40514E;
     font-family: 'Merriweather', serif;
     line-height: 2;
+    background-color: #e4f9f5;
 }
 
 hr {
@@ -130,4 +131,22 @@ a {
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
+  }
+
+  a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 10px;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #eaf6f6;
+    font-size: 1.25rem;
+  }
+
+  .bottom-container p {
+    color: #eaf6f6;
+    font-size: .75rem;
+    padding: 10px 0;
   }
